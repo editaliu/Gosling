@@ -1,0 +1,19 @@
+body {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: lightgrey;
+  background-size: 50%;
+}
+.line{
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+  width: 80%;
+  margin-left: 10%;
+}
+cite{
+  color: grey;
+}
+
+img {
+  width: 100%;
+}
